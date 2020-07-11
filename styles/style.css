@@ -1,0 +1,73 @@
+.navbar img {
+    width: 40px;
+}
+
+body {
+    background-color: #F3F1FF;
+}
+
+.row img {
+    width: 100%;
+}
+
+.player img {
+    width: 56px;
+}
+
+main {
+    max-width: 870px;
+    background-color: white;
+}
+
+.top-blog img {
+    width: 177px;
+    height: 117px;
+}
+
+small img {
+    width: 10px;
+}
+
+.time {
+    color: #FF4A60;
+    background-color: #FFE4E8;
+    padding: 0px 5px 2px 5px;
+    border-radius: 20px;
+}
+
+h3,
+h6 {
+    color: #562EFF;
+}
+
+.by {
+    color: #9F9F9F;
+}
+
+.card {
+    border: none;
+    box-shadow: 1px 1px 40px lightgrey;
+    border-radius: 20px;
+}
+
+
+/* .margin {
+    position: relative;
+    width: 807px;
+    height: 0px;
+    left: 315px;
+    top: 410px;
+    border: 1px solid #D1D1D1;
+} */
+
+.last img {
+    height: 15px;
+}
+
+.clock {
+    height: 20px !important;
+}
+
+form {
+    max-width: 870px;
+}
